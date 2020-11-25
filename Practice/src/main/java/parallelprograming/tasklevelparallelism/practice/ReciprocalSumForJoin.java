@@ -1,8 +1,11 @@
 package parallelprograming.tasklevelparallelism.practice;
 
+import java.util.Arrays;
 import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.RecursiveAction;
+import java.util.stream.Stream;
 
+//1https://github.com/igorfyago/Coursera-Spec-Java--Parallel-Concurrent-Distributed
 /**
  * Using {@link ForkJoinPool} by divide and conquer Env. setup: JDK 1.8 Windows 10 Core i5 1.60Ghz
  * 1.80 Ghz 4 cores RAM 16 GB Numbers of records = 300999000
