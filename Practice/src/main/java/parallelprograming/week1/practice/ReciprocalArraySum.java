@@ -1,4 +1,4 @@
-package parallelprograming.tasklevelparallelism.practice;
+package parallelprograming.week1.practice;
 
 import edu.rice.pcdp.PCDP;
 import java.util.concurrent.ForkJoinPool;
